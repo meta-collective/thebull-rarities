@@ -1,0 +1,1770 @@
+[
+  {
+    "idx": 136,
+    "trait_type": "horns",
+    "value": "broken",
+    "size": 1018,
+    "share": "15.06%",
+    "path": "/asset/horns/broken.png"
+  },
+  {
+    "idx": 56,
+    "trait_type": "ear",
+    "value": "bitcoin",
+    "size": 924,
+    "share": "13.67%",
+    "path": "/asset/ear/bitcoin.png"
+  },
+  {
+    "idx": 179,
+    "trait_type": "nose",
+    "value": "black_ring",
+    "size": 923,
+    "share": "13.65%",
+    "path": "/asset/nose/black_ring.png"
+  },
+  {
+    "idx": 37,
+    "trait_type": "bull",
+    "value": "brown_green_snout",
+    "size": 888,
+    "share": "13.14%",
+    "path": "/asset/bull/brown_green_snout.png"
+  },
+  {
+    "idx": 142,
+    "trait_type": "horns",
+    "value": "long",
+    "size": 865,
+    "share": "12.80%",
+    "path": "/asset/horns/long.png"
+  },
+  {
+    "idx": 153,
+    "trait_type": "mouth",
+    "value": "cigarette",
+    "size": 852,
+    "share": "12.60%",
+    "path": "/asset/mouth/cigarette.png"
+  },
+  {
+    "idx": 65,
+    "trait_type": "ear",
+    "value": "mcollective_tag",
+    "size": 809,
+    "share": "11.97%",
+    "path": "/asset/ear/mcollective_tag.png"
+  },
+  {
+    "idx": 149,
+    "trait_type": "horns",
+    "value": "short",
+    "size": 757,
+    "share": "11.20%",
+    "path": "/asset/horns/short.png"
+  },
+  {
+    "idx": 147,
+    "trait_type": "horns",
+    "value": "round",
+    "size": 755,
+    "share": "11.17%",
+    "path": "/asset/horns/round.png"
+  },
+  {
+    "idx": 39,
+    "trait_type": "bull",
+    "value": "brown_orange_snout",
+    "size": 688,
+    "share": "10.18%",
+    "path": "/asset/bull/brown_orange_snout.png"
+  },
+  {
+    "idx": 150,
+    "trait_type": "horns",
+    "value": "straight",
+    "size": 679,
+    "share": "10.04%",
+    "path": "/asset/horns/straight.png"
+  },
+  {
+    "idx": 148,
+    "trait_type": "horns",
+    "value": "shaded",
+    "size": 652,
+    "share": "9.65%",
+    "path": "/asset/horns/shaded.png"
+  },
+  {
+    "idx": 73,
+    "trait_type": "eyes",
+    "value": "amber_shades",
+    "size": 651,
+    "share": "9.63%",
+    "path": "/asset/eyes/amber_shades.png"
+  },
+  {
+    "idx": 206,
+    "trait_type": "shirt",
+    "value": "mango_",
+    "size": 635,
+    "share": "9.39%",
+    "path": "/asset/shirt/mango_.png"
+  },
+  {
+    "idx": 163,
+    "trait_type": "mouth",
+    "value": "striped_blowout",
+    "size": 622,
+    "share": "9.20%",
+    "path": "/asset/mouth/striped_blowout.png"
+  },
+  {
+    "idx": 75,
+    "trait_type": "eyes",
+    "value": "black_shades",
+    "size": 609,
+    "share": "9.01%",
+    "path": "/asset/eyes/black_shades.png"
+  },
+  {
+    "idx": 66,
+    "trait_type": "ear",
+    "value": "ring",
+    "size": 600,
+    "share": "8.88%",
+    "path": "/asset/ear/ring.png"
+  },
+  {
+    "idx": 35,
+    "trait_type": "bull",
+    "value": "brown_blue_snout",
+    "size": 598,
+    "share": "8.85%",
+    "path": "/asset/bull/brown_blue_snout.png"
+  },
+  {
+    "idx": 212,
+    "trait_type": "shirt",
+    "value": "shirt",
+    "size": 598,
+    "share": "8.85%",
+    "path": "/asset/shirt/shirt.png"
+  },
+  {
+    "idx": 158,
+    "trait_type": "mouth",
+    "value": "long_cigarette",
+    "size": 593,
+    "share": "8.77%",
+    "path": "/asset/mouth/long_cigarette.png"
+  },
+  {
+    "idx": 161,
+    "trait_type": "mouth",
+    "value": "quadricolor_blowout",
+    "size": 569,
+    "share": "8.42%",
+    "path": "/asset/mouth/quadricolor_blowout.png"
+  },
+  {
+    "idx": 34,
+    "trait_type": "bull",
+    "value": "brown",
+    "size": 547,
+    "share": "8.09%",
+    "path": "/asset/bull/brown.png"
+  },
+  {
+    "idx": 198,
+    "trait_type": "shirt",
+    "value": "green_bull_logo",
+    "size": 545,
+    "share": "8.06%",
+    "path": "/asset/shirt/green_bull_logo.png"
+  },
+  {
+    "idx": 174,
+    "trait_type": "neck",
+    "value": "orange_green_scarf",
+    "size": 537,
+    "share": "7.94%",
+    "path": "/asset/neck/orange_green_scarf.png"
+  },
+  {
+    "idx": 182,
+    "trait_type": "nose",
+    "value": "gray_half_ring",
+    "size": 523,
+    "share": "7.74%",
+    "path": "/asset/nose/gray_half_ring.png"
+  },
+  {
+    "idx": 89,
+    "trait_type": "eyes",
+    "value": "yellow_small",
+    "size": 522,
+    "share": "7.72%",
+    "path": "/asset/eyes/yellow_small.png"
+  },
+  {
+    "idx": 134,
+    "trait_type": "horns",
+    "value": "bandage_bandage",
+    "size": 513,
+    "share": "7.59%",
+    "path": "/asset/horns/bandage_bandage.png"
+  },
+  {
+    "idx": 80,
+    "trait_type": "eyes",
+    "value": "gray_shades",
+    "size": 505,
+    "share": "7.47%",
+    "path": "/asset/eyes/gray_shades.png"
+  },
+  {
+    "idx": 41,
+    "trait_type": "bull",
+    "value": "brown_red_snout",
+    "size": 487,
+    "share": "7.20%",
+    "path": "/asset/bull/brown_red_snout.png"
+  },
+  {
+    "idx": 219,
+    "trait_type": "shirt",
+    "value": "white",
+    "size": 481,
+    "share": "7.12%",
+    "path": "/asset/shirt/white.png"
+  },
+  {
+    "idx": 77,
+    "trait_type": "eyes",
+    "value": "blue_small",
+    "size": 463,
+    "share": "6.85%",
+    "path": "/asset/eyes/blue_small.png"
+  },
+  {
+    "idx": 40,
+    "trait_type": "bull",
+    "value": "brown_pink_snout",
+    "size": 454,
+    "share": "6.72%",
+    "path": "/asset/bull/brown_pink_snout.png"
+  },
+  {
+    "idx": 133,
+    "trait_type": "horns",
+    "value": "antlers",
+    "size": 452,
+    "share": "6.69%",
+    "path": "/asset/horns/antlers.png"
+  },
+  {
+    "idx": 1,
+    "trait_type": "background",
+    "value": "biloba_flower",
+    "size": 449,
+    "share": "6.64%",
+    "path": "/asset/background/biloba_flower.png"
+  },
+  {
+    "idx": 3,
+    "trait_type": "background",
+    "value": "blue_water_leaf",
+    "size": 439,
+    "share": "6.49%",
+    "path": "/asset/background/blue_water_leaf.png"
+  },
+  {
+    "idx": 96,
+    "trait_type": "head",
+    "value": "blue",
+    "size": 431,
+    "share": "6.38%",
+    "path": "/asset/head/blue.png"
+  },
+  {
+    "idx": 18,
+    "trait_type": "background",
+    "value": "madang_green",
+    "size": 430,
+    "share": "6.36%",
+    "path": "/asset/background/madang_green.png"
+  },
+  {
+    "idx": 50,
+    "trait_type": "bull",
+    "value": "red",
+    "size": 384,
+    "share": "5.68%",
+    "path": "/asset/bull/red.png"
+  },
+  {
+    "idx": 69,
+    "trait_type": "ear",
+    "value": "solana",
+    "size": 382,
+    "share": "5.65%",
+    "path": "/asset/ear/solana.png"
+  },
+  {
+    "idx": 106,
+    "trait_type": "head",
+    "value": "lord_",
+    "size": 382,
+    "share": "5.65%",
+    "path": "/asset/head/lord_.png"
+  },
+  {
+    "idx": 197,
+    "trait_type": "shirt",
+    "value": "gray_sunset_logo",
+    "size": 381,
+    "share": "5.64%",
+    "path": "/asset/shirt/gray_sunset_logo.png"
+  },
+  {
+    "idx": 209,
+    "trait_type": "shirt",
+    "value": "miner",
+    "size": 379,
+    "share": "5.61%",
+    "path": "/asset/shirt/miner.png"
+  },
+  {
+    "idx": 20,
+    "trait_type": "background",
+    "value": "pancho",
+    "size": 375,
+    "share": "5.55%",
+    "path": "/asset/background/pancho.png"
+  },
+  {
+    "idx": 204,
+    "trait_type": "shirt",
+    "value": "light_blue__bull_logo",
+    "size": 373,
+    "share": "5.52%",
+    "path": "/asset/shirt/light_blue__bull_logo.png"
+  },
+  {
+    "idx": 184,
+    "trait_type": "nose",
+    "value": "green_ring",
+    "size": 372,
+    "share": "5.50%",
+    "path": "/asset/nose/green_ring.png"
+  },
+  {
+    "idx": 155,
+    "trait_type": "mouth",
+    "value": "great_horn",
+    "size": 357,
+    "share": "5.28%",
+    "path": "/asset/mouth/great_horn.png"
+  },
+  {
+    "idx": 108,
+    "trait_type": "head",
+    "value": "miner",
+    "size": 356,
+    "share": "5.27%",
+    "path": "/asset/head/miner.png"
+  },
+  {
+    "idx": 23,
+    "trait_type": "background",
+    "value": "regent_St_Blue",
+    "size": 355,
+    "share": "5.25%",
+    "path": "/asset/background/regent_St_Blue.png"
+  },
+  {
+    "idx": 29,
+    "trait_type": "background",
+    "value": "violet_biloba_flower",
+    "size": 354,
+    "share": "5.24%",
+    "path": "/asset/background/violet_biloba_flower.png"
+  },
+  {
+    "idx": 84,
+    "trait_type": "eyes",
+    "value": "pink_shades",
+    "size": 348,
+    "share": "5.15%",
+    "path": "/asset/eyes/pink_shades.png"
+  },
+  {
+    "idx": 221,
+    "trait_type": "shirt",
+    "value": "white_tank_top",
+    "size": 340,
+    "share": "5.03%",
+    "path": "/asset/shirt/white_tank_top.png"
+  },
+  {
+    "idx": 168,
+    "trait_type": "neck",
+    "value": "blue_scarf",
+    "size": 336,
+    "share": "4.97%",
+    "path": "/asset/neck/blue_scarf.png"
+  },
+  {
+    "idx": 22,
+    "trait_type": "background",
+    "value": "pink_kobi",
+    "size": 335,
+    "share": "4.96%",
+    "path": "/asset/background/pink_kobi.png"
+  },
+  {
+    "idx": 124,
+    "trait_type": "head",
+    "value": "uzbek_",
+    "size": 334,
+    "share": "4.94%",
+    "path": "/asset/head/uzbek_.png"
+  },
+  {
+    "idx": 70,
+    "trait_type": "ear",
+    "value": "violet_pearl",
+    "size": 333,
+    "share": "4.93%",
+    "path": "/asset/ear/violet_pearl.png"
+  },
+  {
+    "idx": 189,
+    "trait_type": "nose",
+    "value": "wooden_ring",
+    "size": 328,
+    "share": "4.85%",
+    "path": "/asset/nose/wooden_ring.png"
+  },
+  {
+    "idx": 27,
+    "trait_type": "background",
+    "value": "tea_green",
+    "size": 323,
+    "share": "4.78%",
+    "path": "/asset/background/tea_green.png"
+  },
+  {
+    "idx": 44,
+    "trait_type": "bull",
+    "value": "fuchsia",
+    "size": 319,
+    "share": "4.72%",
+    "path": "/asset/bull/fuchsia.png"
+  },
+  {
+    "idx": 81,
+    "trait_type": "eyes",
+    "value": "green_small",
+    "size": 316,
+    "share": "4.68%",
+    "path": "/asset/eyes/green_small.png"
+  },
+  {
+    "idx": 94,
+    "trait_type": "head",
+    "value": "black_crest",
+    "size": 316,
+    "share": "4.68%",
+    "path": "/asset/head/black_crest.png"
+  },
+  {
+    "idx": 180,
+    "trait_type": "nose",
+    "value": "black_striped_ring",
+    "size": 312,
+    "share": "4.62%",
+    "path": "/asset/nose/black_striped_ring.png"
+  },
+  {
+    "idx": 6,
+    "trait_type": "background",
+    "value": "caper_green",
+    "size": 303,
+    "share": "4.48%",
+    "path": "/asset/background/caper_green.png"
+  },
+  {
+    "idx": 59,
+    "trait_type": "ear",
+    "value": "earphone",
+    "size": 302,
+    "share": "4.47%",
+    "path": "/asset/ear/earphone.png"
+  },
+  {
+    "idx": 177,
+    "trait_type": "nose",
+    "value": "arrows",
+    "size": 301,
+    "share": "4.45%",
+    "path": "/asset/nose/arrows.png"
+  },
+  {
+    "idx": 187,
+    "trait_type": "nose",
+    "value": "rudolph",
+    "size": 298,
+    "share": "4.41%",
+    "path": "/asset/nose/rudolph.png"
+  },
+  {
+    "idx": 42,
+    "trait_type": "bull",
+    "value": "brown_spotted_black_snout",
+    "size": 296,
+    "share": "4.38%",
+    "path": "/asset/bull/brown_spotted_black_snout.png"
+  },
+  {
+    "idx": 176,
+    "trait_type": "neck",
+    "value": "white_gaiter",
+    "size": 292,
+    "share": "4.32%",
+    "path": "/asset/neck/white_gaiter.png"
+  },
+  {
+    "idx": 113,
+    "trait_type": "head",
+    "value": "red_kefiah_",
+    "size": 288,
+    "share": "4.26%",
+    "path": "/asset/head/red_kefiah_.png"
+  },
+  {
+    "idx": 14,
+    "trait_type": "background",
+    "value": "light_biloba_flower",
+    "size": 276,
+    "share": "4.08%",
+    "path": "/asset/background/light_biloba_flower.png"
+  },
+  {
+    "idx": 54,
+    "trait_type": "bull",
+    "value": "turquoise",
+    "size": 274,
+    "share": "4.05%",
+    "path": "/asset/bull/turquoise.png"
+  },
+  {
+    "idx": 17,
+    "trait_type": "background",
+    "value": "madang",
+    "size": 273,
+    "share": "4.04%",
+    "path": "/asset/background/madang.png"
+  },
+  {
+    "idx": 152,
+    "trait_type": "mouth",
+    "value": "blue_protein_shake",
+    "size": 272,
+    "share": "4.02%",
+    "path": "/asset/mouth/blue_protein_shake.png"
+  },
+  {
+    "idx": 33,
+    "trait_type": "bull",
+    "value": "blue",
+    "size": 270,
+    "share": "3.99%",
+    "path": "/asset/bull/blue.png"
+  },
+  {
+    "idx": 31,
+    "trait_type": "background",
+    "value": "zinnwaldite",
+    "size": 265,
+    "share": "3.92%",
+    "path": "/asset/background/zinnwaldite.png"
+  },
+  {
+    "idx": 43,
+    "trait_type": "bull",
+    "value": "brown_spotted_pink_snout",
+    "size": 263,
+    "share": "3.89%",
+    "path": "/asset/bull/brown_spotted_pink_snout.png"
+  },
+  {
+    "idx": 90,
+    "trait_type": "head",
+    "value": "TB_green",
+    "size": 263,
+    "share": "3.89%",
+    "path": "/asset/head/TB_green.png"
+  },
+  {
+    "idx": 60,
+    "trait_type": "ear",
+    "value": "flower",
+    "size": 256,
+    "share": "3.79%",
+    "path": "/asset/ear/flower.png"
+  },
+  {
+    "idx": 49,
+    "trait_type": "bull",
+    "value": "orange",
+    "size": 246,
+    "share": "3.64%",
+    "path": "/asset/bull/orange.png"
+  },
+  {
+    "idx": 128,
+    "trait_type": "head",
+    "value": "white_kefiah_",
+    "size": 245,
+    "share": "3.62%",
+    "path": "/asset/head/white_kefiah_.png"
+  },
+  {
+    "idx": 5,
+    "trait_type": "background",
+    "value": "caper",
+    "size": 242,
+    "share": "3.58%",
+    "path": "/asset/background/caper.png"
+  },
+  {
+    "idx": 74,
+    "trait_type": "eyes",
+    "value": "bitcoin_coins",
+    "size": 237,
+    "share": "3.51%",
+    "path": "/asset/eyes/bitcoin_coins.png"
+  },
+  {
+    "idx": 203,
+    "trait_type": "shirt",
+    "value": "inmate_",
+    "size": 237,
+    "share": "3.51%",
+    "path": "/asset/shirt/inmate_.png"
+  },
+  {
+    "idx": 36,
+    "trait_type": "bull",
+    "value": "brown_golden_snout",
+    "size": 230,
+    "share": "3.40%",
+    "path": "/asset/bull/brown_golden_snout.png"
+  },
+  {
+    "idx": 185,
+    "trait_type": "nose",
+    "value": "mustache",
+    "size": 225,
+    "share": "3.33%",
+    "path": "/asset/nose/mustache.png"
+  },
+  {
+    "idx": 7,
+    "trait_type": "background",
+    "value": "chamois",
+    "size": 221,
+    "share": "3.27%",
+    "path": "/asset/background/chamois.png"
+  },
+  {
+    "idx": 188,
+    "trait_type": "nose",
+    "value": "spotted_half_ring",
+    "size": 220,
+    "share": "3.25%",
+    "path": "/asset/nose/spotted_half_ring.png"
+  },
+  {
+    "idx": 2,
+    "trait_type": "background",
+    "value": "blizzard_blue",
+    "size": 219,
+    "share": "3.24%",
+    "path": "/asset/background/blizzard_blue.png"
+  },
+  {
+    "idx": 135,
+    "trait_type": "horns",
+    "value": "blue_antlers",
+    "size": 218,
+    "share": "3.23%",
+    "path": "/asset/horns/blue_antlers.png"
+  },
+  {
+    "idx": 213,
+    "trait_type": "shirt",
+    "value": "skeleton",
+    "size": 217,
+    "share": "3.21%",
+    "path": "/asset/shirt/skeleton.png"
+  },
+  {
+    "idx": 215,
+    "trait_type": "shirt",
+    "value": "the_bull_sticker",
+    "size": 215,
+    "share": "3.18%",
+    "path": "/asset/shirt/the_bull_sticker.png"
+  },
+  {
+    "idx": 11,
+    "trait_type": "background",
+    "value": "french_lilac",
+    "size": 211,
+    "share": "3.12%",
+    "path": "/asset/background/french_lilac.png"
+  },
+  {
+    "idx": 79,
+    "trait_type": "eyes",
+    "value": "cycling_shades",
+    "size": 210,
+    "share": "3.11%",
+    "path": "/asset/eyes/cycling_shades.png"
+  },
+  {
+    "idx": 146,
+    "trait_type": "horns",
+    "value": "pixelated",
+    "size": 209,
+    "share": "3.09%",
+    "path": "/asset/horns/pixelated.png"
+  },
+  {
+    "idx": 91,
+    "trait_type": "head",
+    "value": "atom_",
+    "size": 204,
+    "share": "3.02%",
+    "path": "/asset/head/atom_.png"
+  },
+  {
+    "idx": 67,
+    "trait_type": "ear",
+    "value": "rocket",
+    "size": 203,
+    "share": "3.00%",
+    "path": "/asset/ear/rocket.png"
+  },
+  {
+    "idx": 129,
+    "trait_type": "head",
+    "value": "white_red",
+    "size": 200,
+    "share": "2.96%",
+    "path": "/asset/head/white_red.png"
+  },
+  {
+    "idx": 13,
+    "trait_type": "background",
+    "value": "kobi",
+    "size": 197,
+    "share": "2.91%",
+    "path": "/asset/background/kobi.png"
+  },
+  {
+    "idx": 86,
+    "trait_type": "eyes",
+    "value": "solana_coins",
+    "size": 197,
+    "share": "2.91%",
+    "path": "/asset/eyes/solana_coins.png"
+  },
+  {
+    "idx": 140,
+    "trait_type": "horns",
+    "value": "golden",
+    "size": 197,
+    "share": "2.91%",
+    "path": "/asset/horns/golden.png"
+  },
+  {
+    "idx": 85,
+    "trait_type": "eyes",
+    "value": "round_shades",
+    "size": 195,
+    "share": "2.89%",
+    "path": "/asset/eyes/round_shades.png"
+  },
+  {
+    "idx": 160,
+    "trait_type": "mouth",
+    "value": "pipe",
+    "size": 195,
+    "share": "2.89%",
+    "path": "/asset/mouth/pipe.png"
+  },
+  {
+    "idx": 38,
+    "trait_type": "bull",
+    "value": "brown_multicolor_snout",
+    "size": 194,
+    "share": "2.87%",
+    "path": "/asset/bull/brown_multicolor_snout.png"
+  },
+  {
+    "idx": 166,
+    "trait_type": "neck",
+    "value": "army_tag",
+    "size": 193,
+    "share": "2.86%",
+    "path": "/asset/neck/army_tag.png"
+  },
+  {
+    "idx": 24,
+    "trait_type": "background",
+    "value": "spindle",
+    "size": 192,
+    "share": "2.84%",
+    "path": "/asset/background/spindle.png"
+  },
+  {
+    "idx": 88,
+    "trait_type": "eyes",
+    "value": "triangular_shades",
+    "size": 192,
+    "share": "2.84%",
+    "path": "/asset/eyes/triangular_shades.png"
+  },
+  {
+    "idx": 130,
+    "trait_type": "head",
+    "value": "yellow",
+    "size": 192,
+    "share": "2.84%",
+    "path": "/asset/head/yellow.png"
+  },
+  {
+    "idx": 32,
+    "trait_type": "background",
+    "value": "zinnwaldite_pink",
+    "size": 187,
+    "share": "2.77%",
+    "path": "/asset/background/zinnwaldite_pink.png"
+  },
+  {
+    "idx": 21,
+    "trait_type": "background",
+    "value": "pink_biloba_flower",
+    "size": 182,
+    "share": "2.69%",
+    "path": "/asset/background/pink_biloba_flower.png"
+  },
+  {
+    "idx": 218,
+    "trait_type": "shirt",
+    "value": "up_only",
+    "size": 182,
+    "share": "2.69%",
+    "path": "/asset/shirt/up_only.png"
+  },
+  {
+    "idx": 71,
+    "trait_type": "eyes",
+    "value": "MIB_shades",
+    "size": 180,
+    "share": "2.66%",
+    "path": "/asset/eyes/MIB_shades.png"
+  },
+  {
+    "idx": 15,
+    "trait_type": "background",
+    "value": "light_orchid",
+    "size": 178,
+    "share": "2.63%",
+    "path": "/asset/background/light_orchid.png"
+  },
+  {
+    "idx": 156,
+    "trait_type": "mouth",
+    "value": "green_protein_shake",
+    "size": 178,
+    "share": "2.63%",
+    "path": "/asset/mouth/green_protein_shake.png"
+  },
+  {
+    "idx": 19,
+    "trait_type": "background",
+    "value": "madang_light",
+    "size": 177,
+    "share": "2.62%",
+    "path": "/asset/background/madang_light.png"
+  },
+  {
+    "idx": 63,
+    "trait_type": "ear",
+    "value": "green_monsters",
+    "size": 171,
+    "share": "2.53%",
+    "path": "/asset/ear/green_monsters.png"
+  },
+  {
+    "idx": 16,
+    "trait_type": "background",
+    "value": "light_water_leaf",
+    "size": 169,
+    "share": "2.50%",
+    "path": "/asset/background/light_water_leaf.png"
+  },
+  {
+    "idx": 193,
+    "trait_type": "shirt",
+    "value": "blue_the_bull",
+    "size": 168,
+    "share": "2.49%",
+    "path": "/asset/shirt/blue_the_bull.png"
+  },
+  {
+    "idx": 178,
+    "trait_type": "nose",
+    "value": "beard",
+    "size": 167,
+    "share": "2.47%",
+    "path": "/asset/nose/beard.png"
+  },
+  {
+    "idx": 101,
+    "trait_type": "head",
+    "value": "green_crest",
+    "size": 166,
+    "share": "2.46%",
+    "path": "/asset/head/green_crest.png"
+  },
+  {
+    "idx": 162,
+    "trait_type": "mouth",
+    "value": "spaghetti",
+    "size": 166,
+    "share": "2.46%",
+    "path": "/asset/mouth/spaghetti.png"
+  },
+  {
+    "idx": 92,
+    "trait_type": "head",
+    "value": "bandana",
+    "size": 158,
+    "share": "2.34%",
+    "path": "/asset/head/bandana.png"
+  },
+  {
+    "idx": 169,
+    "trait_type": "neck",
+    "value": "bow_tie",
+    "size": 158,
+    "share": "2.34%",
+    "path": "/asset/neck/bow_tie.png"
+  },
+  {
+    "idx": 46,
+    "trait_type": "bull",
+    "value": "gray",
+    "size": 154,
+    "share": "2.28%",
+    "path": "/asset/bull/gray.png"
+  },
+  {
+    "idx": 95,
+    "trait_type": "head",
+    "value": "black_turban",
+    "size": 153,
+    "share": "2.26%",
+    "path": "/asset/head/black_turban.png"
+  },
+  {
+    "idx": 171,
+    "trait_type": "neck",
+    "value": "golden_cross",
+    "size": 150,
+    "share": "2.22%",
+    "path": "/asset/neck/golden_cross.png"
+  },
+  {
+    "idx": 151,
+    "trait_type": "mouth",
+    "value": "blade_of_grass",
+    "size": 149,
+    "share": "2.20%",
+    "path": "/asset/mouth/blade_of_grass.png"
+  },
+  {
+    "idx": 104,
+    "trait_type": "head",
+    "value": "helicopter",
+    "size": 147,
+    "share": "2.18%",
+    "path": "/asset/head/helicopter.png"
+  },
+  {
+    "idx": 100,
+    "trait_type": "head",
+    "value": "deer",
+    "size": 144,
+    "share": "2.13%",
+    "path": "/asset/head/deer.png"
+  },
+  {
+    "idx": 138,
+    "trait_type": "horns",
+    "value": "devil_broken",
+    "size": 143,
+    "share": "2.12%",
+    "path": "/asset/horns/devil_broken.png"
+  },
+  {
+    "idx": 220,
+    "trait_type": "shirt",
+    "value": "white_bull_logo",
+    "size": 138,
+    "share": "2.04%",
+    "path": "/asset/shirt/white_bull_logo.png"
+  },
+  {
+    "idx": 112,
+    "trait_type": "head",
+    "value": "red_crest",
+    "size": 137,
+    "share": "2.03%",
+    "path": "/asset/head/red_crest.png"
+  },
+  {
+    "idx": 47,
+    "trait_type": "bull",
+    "value": "green",
+    "size": 136,
+    "share": "2.01%",
+    "path": "/asset/bull/green.png"
+  },
+  {
+    "idx": 98,
+    "trait_type": "head",
+    "value": "colorful_middle_east",
+    "size": 132,
+    "share": "1.95%",
+    "path": "/asset/head/colorful_middle_east.png"
+  },
+  {
+    "idx": 99,
+    "trait_type": "head",
+    "value": "curly_hair",
+    "size": 129,
+    "share": "1.91%",
+    "path": "/asset/head/curly_hair.png"
+  },
+  {
+    "idx": 121,
+    "trait_type": "head",
+    "value": "tuba_hat",
+    "size": 129,
+    "share": "1.91%",
+    "path": "/asset/head/tuba_hat.png"
+  },
+  {
+    "idx": 127,
+    "trait_type": "head",
+    "value": "white_cap",
+    "size": 129,
+    "share": "1.91%",
+    "path": "/asset/head/white_cap.png"
+  },
+  {
+    "idx": 53,
+    "trait_type": "bull",
+    "value": "spotted_pink",
+    "size": 125,
+    "share": "1.85%",
+    "path": "/asset/bull/spotted_pink.png"
+  },
+  {
+    "idx": 116,
+    "trait_type": "head",
+    "value": "stylish_midlle_east",
+    "size": 125,
+    "share": "1.85%",
+    "path": "/asset/head/stylish_midlle_east.png"
+  },
+  {
+    "idx": 68,
+    "trait_type": "ear",
+    "value": "security_earpiece",
+    "size": 123,
+    "share": "1.82%",
+    "path": "/asset/ear/security_earpiece.png"
+  },
+  {
+    "idx": 48,
+    "trait_type": "bull",
+    "value": "multicolor",
+    "size": 120,
+    "share": "1.78%",
+    "path": "/asset/bull/multicolor.png"
+  },
+  {
+    "idx": 125,
+    "trait_type": "head",
+    "value": "violet_crest",
+    "size": 120,
+    "share": "1.78%",
+    "path": "/asset/head/violet_crest.png"
+  },
+  {
+    "idx": 216,
+    "trait_type": "shirt",
+    "value": "turquoise_mix",
+    "size": 114,
+    "share": "1.69%",
+    "path": "/asset/shirt/turquoise_mix.png"
+  },
+  {
+    "idx": 175,
+    "trait_type": "neck",
+    "value": "red_scarf",
+    "size": 113,
+    "share": "1.67%",
+    "path": "/asset/neck/red_scarf.png"
+  },
+  {
+    "idx": 109,
+    "trait_type": "head",
+    "value": "orange_middle_east",
+    "size": 109,
+    "share": "1.61%",
+    "path": "/asset/head/orange_middle_east.png"
+  },
+  {
+    "idx": 192,
+    "trait_type": "shirt",
+    "value": "ape_logo",
+    "size": 109,
+    "share": "1.61%",
+    "path": "/asset/shirt/ape_logo.png"
+  },
+  {
+    "idx": 172,
+    "trait_type": "neck",
+    "value": "lotr_ring",
+    "size": 108,
+    "share": "1.60%",
+    "path": "/asset/neck/lotr_ring.png"
+  },
+  {
+    "idx": 82,
+    "trait_type": "eyes",
+    "value": "orange_goggles",
+    "size": 105,
+    "share": "1.55%",
+    "path": "/asset/eyes/orange_goggles.png"
+  },
+  {
+    "idx": 165,
+    "trait_type": "mouth",
+    "value": "wheat_branch",
+    "size": 103,
+    "share": "1.52%",
+    "path": "/asset/mouth/wheat_branch.png"
+  },
+  {
+    "idx": 183,
+    "trait_type": "nose",
+    "value": "green_fluo_half_ring",
+    "size": 102,
+    "share": "1.51%",
+    "path": "/asset/nose/green_fluo_half_ring.png"
+  },
+  {
+    "idx": 62,
+    "trait_type": "ear",
+    "value": "golden_ring",
+    "size": 101,
+    "share": "1.49%",
+    "path": "/asset/ear/golden_ring.png"
+  },
+  {
+    "idx": 170,
+    "trait_type": "neck",
+    "value": "elizabethan_ruff",
+    "size": 100,
+    "share": "1.48%",
+    "path": "/asset/neck/elizabethan_ruff.png"
+  },
+  {
+    "idx": 186,
+    "trait_type": "nose",
+    "value": "pink_fluo_half_ring",
+    "size": 100,
+    "share": "1.48%",
+    "path": "/asset/nose/pink_fluo_half_ring.png"
+  },
+  {
+    "idx": 78,
+    "trait_type": "eyes",
+    "value": "cucumber",
+    "size": 96,
+    "share": "1.42%",
+    "path": "/asset/eyes/cucumber.png"
+  },
+  {
+    "idx": 145,
+    "trait_type": "horns",
+    "value": "multicolor",
+    "size": 90,
+    "share": "1.33%",
+    "path": "/asset/horns/multicolor.png"
+  },
+  {
+    "idx": 200,
+    "trait_type": "shirt",
+    "value": "hawaiian_green_shirt",
+    "size": 88,
+    "share": "1.30%",
+    "path": "/asset/shirt/hawaiian_green_shirt.png"
+  },
+  {
+    "idx": 157,
+    "trait_type": "mouth",
+    "value": "lemon_soltea",
+    "size": 87,
+    "share": "1.29%",
+    "path": "/asset/mouth/lemon_soltea.png"
+  },
+  {
+    "idx": 76,
+    "trait_type": "eyes",
+    "value": "blue_goggles",
+    "size": 80,
+    "share": "1.18%",
+    "path": "/asset/eyes/blue_goggles.png"
+  },
+  {
+    "idx": 139,
+    "trait_type": "horns",
+    "value": "fuchsia",
+    "size": 80,
+    "share": "1.18%",
+    "path": "/asset/horns/fuchsia.png"
+  },
+  {
+    "idx": 4,
+    "trait_type": "background",
+    "value": "candlelight",
+    "size": 74,
+    "share": "1.10%",
+    "path": "/asset/background/candlelight.png"
+  },
+  {
+    "idx": 57,
+    "trait_type": "ear",
+    "value": "bluetooth_headset",
+    "size": 74,
+    "share": "1.10%",
+    "path": "/asset/ear/bluetooth_headset.png"
+  },
+  {
+    "idx": 58,
+    "trait_type": "ear",
+    "value": "dreamcatcher",
+    "size": 70,
+    "share": "1.04%",
+    "path": "/asset/ear/dreamcatcher.png"
+  },
+  {
+    "idx": 194,
+    "trait_type": "shirt",
+    "value": "dishdasha",
+    "size": 70,
+    "share": "1.04%",
+    "path": "/asset/shirt/dishdasha.png"
+  },
+  {
+    "idx": 214,
+    "trait_type": "shirt",
+    "value": "tattoo",
+    "size": 70,
+    "share": "1.04%",
+    "path": "/asset/shirt/tattoo.png"
+  },
+  {
+    "idx": 211,
+    "trait_type": "shirt",
+    "value": "santa",
+    "size": 69,
+    "share": "1.02%",
+    "path": "/asset/shirt/santa.png"
+  },
+  {
+    "idx": 159,
+    "trait_type": "mouth",
+    "value": "peach_soltea",
+    "size": 63,
+    "share": "0.93%",
+    "path": "/asset/mouth/peach_soltea.png"
+  },
+  {
+    "idx": 110,
+    "trait_type": "head",
+    "value": "penguin",
+    "size": 61,
+    "share": "0.90%",
+    "path": "/asset/head/penguin.png"
+  },
+  {
+    "idx": 195,
+    "trait_type": "shirt",
+    "value": "glow_skeleton",
+    "size": 58,
+    "share": "0.86%",
+    "path": "/asset/shirt/glow_skeleton.png"
+  },
+  {
+    "idx": 199,
+    "trait_type": "shirt",
+    "value": "hawaiian_blue_shirt",
+    "size": 58,
+    "share": "0.86%",
+    "path": "/asset/shirt/hawaiian_blue_shirt.png"
+  },
+  {
+    "idx": 210,
+    "trait_type": "shirt",
+    "value": "robe",
+    "size": 58,
+    "share": "0.86%",
+    "path": "/asset/shirt/robe.png"
+  },
+  {
+    "idx": 10,
+    "trait_type": "background",
+    "value": "electric_violet",
+    "size": 57,
+    "share": "0.84%",
+    "path": "/asset/background/electric_violet.png"
+  },
+  {
+    "idx": 119,
+    "trait_type": "head",
+    "value": "theBull_fancy_style",
+    "size": 56,
+    "share": "0.83%",
+    "path": "/asset/head/theBull_fancy_style.png"
+  },
+  {
+    "idx": 115,
+    "trait_type": "head",
+    "value": "solana_style",
+    "size": 55,
+    "share": "0.81%",
+    "path": "/asset/head/solana_style.png"
+  },
+  {
+    "idx": 143,
+    "trait_type": "horns",
+    "value": "markhor",
+    "size": 55,
+    "share": "0.81%",
+    "path": "/asset/horns/markhor.png"
+  },
+  {
+    "idx": 144,
+    "trait_type": "horns",
+    "value": "meta",
+    "size": 55,
+    "share": "0.81%",
+    "path": "/asset/horns/meta.png"
+  },
+  {
+    "idx": 97,
+    "trait_type": "head",
+    "value": "chef",
+    "size": 53,
+    "share": "0.78%",
+    "path": "/asset/head/chef.png"
+  },
+  {
+    "idx": 0,
+    "trait_type": "background",
+    "value": "aqua",
+    "size": 50,
+    "share": "0.74%",
+    "path": "/asset/background/aqua.png"
+  },
+  {
+    "idx": 117,
+    "trait_type": "head",
+    "value": "tartan_turban",
+    "size": 50,
+    "share": "0.74%",
+    "path": "/asset/head/tartan_turban.png"
+  },
+  {
+    "idx": 120,
+    "trait_type": "head",
+    "value": "theBull_modern_style",
+    "size": 50,
+    "share": "0.74%",
+    "path": "/asset/head/theBull_modern_style.png"
+  },
+  {
+    "idx": 55,
+    "trait_type": "ear",
+    "value": "LFG",
+    "size": 48,
+    "share": "0.71%",
+    "path": "/asset/ear/LFG.png"
+  },
+  {
+    "idx": 107,
+    "trait_type": "head",
+    "value": "master_chef",
+    "size": 47,
+    "share": "0.70%",
+    "path": "/asset/head/master_chef.png"
+  },
+  {
+    "idx": 51,
+    "trait_type": "bull",
+    "value": "spotted_brown",
+    "size": 46,
+    "share": "0.68%",
+    "path": "/asset/bull/spotted_brown.png"
+  },
+  {
+    "idx": 167,
+    "trait_type": "neck",
+    "value": "blockchain",
+    "size": 44,
+    "share": "0.65%",
+    "path": "/asset/neck/blockchain.png"
+  },
+  {
+    "idx": 181,
+    "trait_type": "nose",
+    "value": "golden_ring",
+    "size": 44,
+    "share": "0.65%",
+    "path": "/asset/nose/golden_ring.png"
+  },
+  {
+    "idx": 103,
+    "trait_type": "head",
+    "value": "halo",
+    "size": 42,
+    "share": "0.62%",
+    "path": "/asset/head/halo.png"
+  },
+  {
+    "idx": 122,
+    "trait_type": "head",
+    "value": "tuba_star_hat",
+    "size": 41,
+    "share": "0.61%",
+    "path": "/asset/head/tuba_star_hat.png"
+  },
+  {
+    "idx": 25,
+    "trait_type": "background",
+    "value": "spring_green",
+    "size": 40,
+    "share": "0.59%",
+    "path": "/asset/background/spring_green.png"
+  },
+  {
+    "idx": 83,
+    "trait_type": "eyes",
+    "value": "pink_goggles",
+    "size": 40,
+    "share": "0.59%",
+    "path": "/asset/eyes/pink_goggles.png"
+  },
+  {
+    "idx": 114,
+    "trait_type": "head",
+    "value": "solana_logo",
+    "size": 40,
+    "share": "0.59%",
+    "path": "/asset/head/solana_logo.png"
+  },
+  {
+    "idx": 111,
+    "trait_type": "head",
+    "value": "pirate",
+    "size": 38,
+    "share": "0.56%",
+    "path": "/asset/head/pirate.png"
+  },
+  {
+    "idx": 52,
+    "trait_type": "bull",
+    "value": "spotted_meta",
+    "size": 37,
+    "share": "0.55%",
+    "path": "/asset/bull/spotted_meta.png"
+  },
+  {
+    "idx": 12,
+    "trait_type": "background",
+    "value": "green_yellow",
+    "size": 35,
+    "share": "0.52%",
+    "path": "/asset/background/green_yellow.png"
+  },
+  {
+    "idx": 28,
+    "trait_type": "background",
+    "value": "torch_red",
+    "size": 35,
+    "share": "0.52%",
+    "path": "/asset/background/torch_red.png"
+  },
+  {
+    "idx": 9,
+    "trait_type": "background",
+    "value": "electric_purple",
+    "size": 34,
+    "share": "0.50%",
+    "path": "/asset/background/electric_purple.png"
+  },
+  {
+    "idx": 201,
+    "trait_type": "shirt",
+    "value": "hawaiian_orange_shirt",
+    "size": 34,
+    "share": "0.50%",
+    "path": "/asset/shirt/hawaiian_orange_shirt.png"
+  },
+  {
+    "idx": 26,
+    "trait_type": "background",
+    "value": "sunshade",
+    "size": 33,
+    "share": "0.49%",
+    "path": "/asset/background/sunshade.png"
+  },
+  {
+    "idx": 102,
+    "trait_type": "head",
+    "value": "green_turban",
+    "size": 32,
+    "share": "0.47%",
+    "path": "/asset/head/green_turban.png"
+  },
+  {
+    "idx": 154,
+    "trait_type": "mouth",
+    "value": "golden_pipe",
+    "size": 32,
+    "share": "0.47%",
+    "path": "/asset/mouth/golden_pipe.png"
+  },
+  {
+    "idx": 217,
+    "trait_type": "shirt",
+    "value": "tuxedo",
+    "size": 30,
+    "share": "0.44%",
+    "path": "/asset/shirt/tuxedo.png"
+  },
+  {
+    "idx": 30,
+    "trait_type": "background",
+    "value": "wild_strawberry",
+    "size": 29,
+    "share": "0.43%",
+    "path": "/asset/background/wild_strawberry.png"
+  },
+  {
+    "idx": 205,
+    "trait_type": "shirt",
+    "value": "luigi",
+    "size": 29,
+    "share": "0.43%",
+    "path": "/asset/shirt/luigi.png"
+  },
+  {
+    "idx": 118,
+    "trait_type": "head",
+    "value": "theBull_crazy_style",
+    "size": 27,
+    "share": "0.40%",
+    "path": "/asset/head/theBull_crazy_style.png"
+  },
+  {
+    "idx": 131,
+    "trait_type": "head_eyes",
+    "value": "big_mask",
+    "size": 26,
+    "share": "0.39%",
+    "path": "/asset/head_eyes/big_mask.png"
+  },
+  {
+    "idx": 87,
+    "trait_type": "eyes",
+    "value": "t800_mask",
+    "size": 24,
+    "share": "0.36%",
+    "path": "/asset/eyes/t800_mask.png"
+  },
+  {
+    "idx": 126,
+    "trait_type": "head",
+    "value": "wagmi",
+    "size": 23,
+    "share": "0.34%",
+    "path": "/asset/head/wagmi.png"
+  },
+  {
+    "idx": 8,
+    "trait_type": "background",
+    "value": "dodger_blue",
+    "size": 21,
+    "share": "0.31%",
+    "path": "/asset/background/dodger_blue.png"
+  },
+  {
+    "idx": 137,
+    "trait_type": "horns",
+    "value": "devil",
+    "size": 21,
+    "share": "0.31%",
+    "path": "/asset/horns/devil.png"
+  },
+  {
+    "idx": 191,
+    "trait_type": "nose_mouth",
+    "value": "mask",
+    "size": 20,
+    "share": "0.30%",
+    "path": "/asset/nose_mouth/mask.png"
+  },
+  {
+    "idx": 105,
+    "trait_type": "head",
+    "value": "king",
+    "size": 19,
+    "share": "0.28%",
+    "path": "/asset/head/king.png"
+  },
+  {
+    "idx": 202,
+    "trait_type": "shirt",
+    "value": "hazmat",
+    "size": 17,
+    "share": "0.25%",
+    "path": "/asset/shirt/hazmat.png"
+  },
+  {
+    "idx": 190,
+    "trait_type": "nose_mouth",
+    "value": "inhaler",
+    "size": 16,
+    "share": "0.24%",
+    "path": "/asset/nose_mouth/inhaler.png"
+  },
+  {
+    "idx": 164,
+    "trait_type": "mouth",
+    "value": "sushi",
+    "size": 13,
+    "share": "0.19%",
+    "path": "/asset/mouth/sushi.png"
+  },
+  {
+    "idx": 173,
+    "trait_type": "neck",
+    "value": "meta",
+    "size": 13,
+    "share": "0.19%",
+    "path": "/asset/neck/meta.png"
+  },
+  {
+    "idx": 93,
+    "trait_type": "head",
+    "value": "bitcoin_open_light_miner",
+    "size": 11,
+    "share": "0.16%",
+    "path": "/asset/head/bitcoin_open_light_miner.png"
+  },
+  {
+    "idx": 123,
+    "trait_type": "head",
+    "value": "unicorn",
+    "size": 11,
+    "share": "0.16%",
+    "path": "/asset/head/unicorn.png"
+  },
+  {
+    "idx": 64,
+    "trait_type": "ear",
+    "value": "kitty_gaming_headset",
+    "size": 9,
+    "share": "0.13%",
+    "path": "/asset/ear/kitty_gaming_headset.png"
+  },
+  {
+    "idx": 196,
+    "trait_type": "shirt",
+    "value": "goku",
+    "size": 9,
+    "share": "0.13%",
+    "path": "/asset/shirt/goku.png"
+  },
+  {
+    "idx": 207,
+    "trait_type": "shirt",
+    "value": "mario",
+    "size": 8,
+    "share": "0.12%",
+    "path": "/asset/shirt/mario.png"
+  },
+  {
+    "idx": 132,
+    "trait_type": "head_eyes",
+    "value": "v_for_vendetta",
+    "size": 5,
+    "share": "0.07%",
+    "path": "/asset/head_eyes/v_for_vendetta.png"
+  },
+  {
+    "idx": 45,
+    "trait_type": "bull",
+    "value": "golden",
+    "size": 4,
+    "share": "0.06%",
+    "path": "/asset/bull/golden.png"
+  },
+  {
+    "idx": 72,
+    "trait_type": "eyes",
+    "value": "VR_viewer",
+    "size": 3,
+    "share": "0.04%",
+    "path": "/asset/eyes/VR_viewer.png"
+  },
+  {
+    "idx": 61,
+    "trait_type": "ear",
+    "value": "gaming_headset",
+    "size": 1,
+    "share": "0.02%",
+    "path": "/asset/ear/gaming_headset.png"
+  },
+  {
+    "idx": 208,
+    "trait_type": "shirt",
+    "value": "miner",
+    "size": 1,
+    "share": "0.02%",
+    "path": "/asset/shirt/miner.png"
+  }
+]
