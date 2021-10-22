@@ -64,7 +64,7 @@ export default Vue.extend({
       {
         icon: "fab fa-discord",
         alt: "Discord",
-        link: "https://discord.gg/thebull",
+        link: "https://discord.gg/metacollective",
       },
       {
         icon: "fab fa-twitter",
